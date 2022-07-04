@@ -1,1 +1,1 @@
-# pypdf2-api
+# PyPDF2 API
