@@ -8,7 +8,5 @@ I implement PyPDF2 in Python to API with Flask.
 
 ### BEFORE YOU RUN THE APP
 Please set the Environment Variables API_KEY with your API Key in terminal
-1. Windows
-set API_KEY = YOUR API KEY
-2. Linux
-export API_KEY = "YOUR API KEY"
+1. Windows : set API_KEY = YOUR API KEY
+2. Linux : export API_KEY = "YOUR API KEY"
